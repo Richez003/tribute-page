@@ -1,0 +1,42 @@
+
+body {
+    margin:0px;
+    padding:0px;
+    width:100%;
+    font-family:Poppins;
+    font-size: 20px;
+    line-height: 2em;
+    background-color: rgb(203, 214, 204);
+  }
+  #title{
+    font-size: 50px;
+    margin: 50px;
+    text-align: center;
+    color: RGB(43, 51, 43);
+  }
+  #img-caption{
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+  }
+  #image{
+   width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  }
+  #link{
+    text-align: center;
+    font-size: 25px;
+  }
+  #life{
+    text-align: center;
+  }
+  #tribute-info{
+    width: 95%;
+    margin: auto;
+  }
+style.css
+Displaying style.css.
